@@ -7,6 +7,16 @@ summary: >-
 title: "#humansconf"
 ---
 
+## Get notified
+
+If you'd like to get notified once we open our registration, please leave your email address at the following form.
+
+{% include mailchimp-interest-form.html %}
+
+We will use your provided email address only for the purpose of sending you an email, informing you about the
+opening registration of #humansconf opens. We will never share your email address with other parties, and handle it,
+according to our [privacy policy](/impressum).
+
 ## Our Vision
 
 Successful technology products tell a story about humans who came together to solve complex problems that
