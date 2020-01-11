@@ -15,14 +15,14 @@ If you'd like to get notified once we open our registration, please leave your e
 
 We will use your provided email address only for the purpose of sending you an email, informing you about the
 opening registration of #humansconf opens. We will never share your email address with other parties, and handle it,
-according to our [privacy policy](/impressum).
+according to our [privacy policy](/imprint).
 
 ## Our Vision
 
 Successful technology products tell a story about humans who came together to solve complex problems that
 touch people’s lives. It’s a story of collaboration, sharing, communication and empathy. But more often than
 not, this side of the story gets overlooked in favour of programming languages or frameworks — even though
-it’s the one piece of the puzzle all successful projects have in common. 
+it’s the one piece of the puzzle all successful projects have in common.
 
 We aim to bring together people from all kinds of backgrounds and roles to discuss, share, and celebrate the
 stories and lessons learnt when humans come together.
