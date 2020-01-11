@@ -44,7 +44,7 @@ $(document).ready(function(){
 
 	});
 
-	// Parallax Ccrolling
+	// Parallax Scrolling
 	var parallaxElements = $('[data-parallax]'),
 		browserWindow = $(window);
 
