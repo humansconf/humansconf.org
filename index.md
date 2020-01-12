@@ -2,7 +2,8 @@
 layout: page
 header_image: header-index.jpg
 summary: >-
-  A conference centered around the most important thing when it comes to impactful technology products: People!
+  A conference centered around the most important thing when it comes to impactful technology products: People & their
+  interactions!
   <div class="meta"><b>May 21-23, 2020</b> at Seminarzentrum Rückersbach</div>
 title: "#humansconf"
 ---
@@ -26,6 +27,9 @@ If you'd like to get notified once we open our registration, please leave your e
 We will use your provided email address only for the purpose of sending you an email, informing you about the
 opening registration of #humansconf opens. We will never share your email address with other parties, and handle it,
 according to our [privacy policy](/imprint).
+
+Alternatively you can also [follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important
+updates there too.
 
 ## Conference
 
