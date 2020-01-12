@@ -2,14 +2,14 @@
 layout: page
 header_image: "header-coc.jpg"
 summary: >-
-  We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual
-  orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+  The organisers of #humansconf are committed to providing a friendly, safe and welcoming environment for all,
+  regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 title: Code of Conduct
 permalink: /code-of-conduct
 ---
 
-We expect all participants, sponsors and organizers to behave according to our Code of Conduct - both at the conference
-and in all discussions around the conference (online and offline).
+We, the organisers of #humansconf that is, expect all participants, sponsors and organizers to behave according to our
+Code of Conduct - both at the conference and in all discussions around the conference (online and offline).
 
 Please read our full code of conduct before buying a ticket, discussing online and before joining us at the conference.
 But please don't feel intimidated by it - these are simple rules, and they will make life better for everyone at the
