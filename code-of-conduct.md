@@ -5,6 +5,7 @@ summary: >-
   We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual
   orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 title: Code of Conduct
+permalink: /code-of-conduct
 ---
 
 We expect all participants, sponsors and organizers to behave according to our Code of Conduct - both at the conference
