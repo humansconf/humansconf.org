@@ -7,7 +7,11 @@ title: "Venue & Date of #humansconf"
 permalink: /venue-and-date
 ---
 
-The conference has the venue booked exclusively, which will help us create a comfortable retreat-like atmosphere.
+The venue is surrounded by beautiful nature, and can host up to 90 participants. The conference has the venue booked
+exclusively for the duration of #humansconf, which allows for a great atmosphere of exchange, as everyone at the venue
+will be a participant. Plus, the fact that the venue is a hotel, means there’s no additional travel between venue and
+accommodation needed, but we all can focus on the conference without having to split up in the evenings. We just stay
+where we are and use the space of the venue for whatever we like.
 
 ## Date
 
@@ -16,10 +20,8 @@ The conference has the venue booked exclusively, which will help us create a com
 
 ## Getting to the Venue
 
-The venue is a mere 50km away from Frankfurt am Main, one of europe's central transport hubs. It can be easily reached
-by train, car and even bike.
+The venue is located near Aschaffenburg, Germany, which again is ~50km away from Frankfurt am Main, a transport hub with
+a well-connected train station and airport.
 
 We will update this section with more detailed info, closer to the conference date, until then please refer to the
 [venue website on how to get there](https://www.natuerlich-tagen.de/anreise/).
-
-_Photo credit on this page: https://www.natuerlich-tagen.de/_
