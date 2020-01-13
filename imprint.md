@@ -2,9 +2,11 @@
 layout: page
 header_image: "header-imprint.jpg"
 summary: (The following info is required by german law)
-title: Imprint
+title: Imprint & Privacy Policy
 permalink: /imprint
 ---
+
+_english version of the privacy policy [follows below](#english)_
 
 Angaben gemäß § 5 TMG:
 
@@ -59,3 +61,63 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber
 der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen,
 etwa durch Spam-Mails, vor.
+
+
+## Datenschutz
+
+Die Website humansconf.org sammelt keinerlei personenbezogene Daten ihrer Besucher, verwendet keine Cookies oder jegliche
+andere Form von Benutzerverfolgung.
+
+Darüber hinaus verwendet humansconf.org die Leistungen von zwei Drittanbietern, um ihren Dienst zur Verfügung zu
+stellen.
+
+### Netlify
+
+Die Website humansconf.org wird von der [Netlify Plattform][netlify] hosted. Netlify zeichnet in seinen
+Zugriffsstatistiken die IP Adresse jeder einzelnen Anfrage an humansconf.org, für eine Dauer von weniger als 30 Tagen,
+auf. Dies bedeutet, dass für jeden Abruf einer Seite von humansconf.org mindestens ein Eintrag Ihrer IP Adresse in den
+Zugriffsstatistiken von Netlify erfolgt.
+
+Mehr Informationen hierzu finden sich in [Netlify's Datenschutzbestimmungen][netlify-gdpr].
+
+### Mailchimp
+
+Besucher der Website humansconf.org können freiwillig ihre Email-Adresse hinterlassen, um über wichtige Neuigkeiten im
+Rahmen der Veranstaltung #humansconf informiert zu werden.
+
+Die Email-Adresse wird durch den Dritt-Anbieter [Mailchimp][mailchimp] verarbeitet und gespeichert. Details dazu sind
+in den [Datenschutzbestimmungen von Mailchimp][mailchimp-gdpr] beschrieben.
+
+
+<a name="english"></a>
+
+## Privacy Policy
+
+The site humansconf.org does not gather any personal identifiable information about it's visitors and does not use any
+cookies or any other form of tracking.
+
+However, the site uses three third party services to be available to you.
+
+### Netlify
+
+The website humansconf.org is hosted on the [Netlify platform][netlify], which collects some data for each request in their
+access logs (including the IP addresses of visitors). This means if you visit any page of the humansconf.org site for any
+number of times, each page visit results in your IP address being stored in Netlify's access logs. This information is
+stored for less than 30 days.
+
+See [Netlify's privacy policy][netlify-gdpr] for more details.
+
+
+### Mailchimp
+
+Visitors of the humansconf.org website can choose to submit their email-address, to get notified of important updates
+regarding the #humansconf event.
+
+Email-addresses submitted in this way, will be processed by the third-party service [Mailchimp][mailchimp]. Details on
+how Mailchimp processes personal data, can be found in [Mailchimp's privacy policy][mailchimp-gdpr].
+
+
+[mailchimp]: https://mailchimp.com/
+[mailchimp-gdpr]: https://mailchimp.com/legal/privacy/
+[netlify]: https://www.netlify.com/
+[netlify-gdpr]: https://www.netlify.com/gdpr/
