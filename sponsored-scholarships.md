@@ -1,6 +1,8 @@
 ---
 layout: page
 header_image: "header-scholarships.jpg"
+meta_description: >-
+  #humansconf offers sponsored scholarships to participants from under-indexed groups
 summary: >-
   #humansconf offers sponsored scholarships to participants from under-indexed groups
 title: Sponsored Scholarships
