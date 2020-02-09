@@ -1,6 +1,9 @@
 ---
 layout: page
 header_image: "header-format.jpg"
+meta_description: >-
+  If you've not yet had the chance to take part in an Open Space-based conference, this page might help you understand what to expect at #humansconf.
+title: >-
 summary: >-
   If you've not yet had the chance to take part in an Open Space-based conference, the following might help you understand what to expect at #humansconf.
 title: >-
