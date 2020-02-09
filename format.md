@@ -35,7 +35,8 @@ Each morning of the conference all participants come together for the marketplac
 In effect, anyone can propose and hold a session. This means everyone is encouraged to actively shape the conference, and what they'd like to experience or learn. Each person can present their session to the group and choose a timeslot and a place for it. 
 
 <div class="media image">
-    <img src="/images/open-space-marketplace_socratesuk.jpg" alt="" />
+    <img src="/images/open-space-marketplace_socratesuk.jpg" alt="Room with many people, one standing in front, a wall
+    with several post-its on a wall behind them" />
     <div class="caption">
         <p>
             How the Open Space marketplace looked like at the <a href="https://socratesuk.org/">SoCraTes UK 2018</a>.
