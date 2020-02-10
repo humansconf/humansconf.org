@@ -13,7 +13,7 @@ Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&u
 Header photo on [Code of Conduct](/code-of-conduct) is by [Brooke
 Cagle](https://unsplash.com/@brookecagle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Header photo on [Venue & Date](/venue-and-date) is from [https://www.natuerlich-tagen.de/](https://www.natuerlich-tagen.de/)
+Header photo on [Venue](/venue) is from [https://www.natuerlich-tagen.de/](https://www.natuerlich-tagen.de/)
 
 Header photo on [Format](/format) is [Whangarei Falls footbridge](https://unsplash.com/photos/eOpewngf68w) by [Tim Swaan](https://unsplash.com/@timswaanphotography)
 

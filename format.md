@@ -107,5 +107,4 @@ Dinner will be served by the hotel in the evening and there’ll be enough rooms
 <a name="saturday"></a>
 ### Saturday
 
-The day will run in the same manner as Friday, but it will end with the closing of #humansconf in the late afternoon, between 5:00 and 6:00pm. Please, be aware that participants that leave the hotel this day won’t have access to the dinner being served by them. 
-
+The day will run in the same manner as Friday, but it will end with the closing of #humansconf in the late afternoon, between 4:00 and 5:00pm. Please, be aware that participants that leave the hotel this day won’t have access to the dinner being served by them. 
