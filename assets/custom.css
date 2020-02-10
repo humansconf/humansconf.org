@@ -1,6 +1,21 @@
-/* Media Queries */
+h2 { padding-top: 50px; }
+h3 { padding-top: 30px; }
+
+#markdown-toc {
+  padding-bottom: 25px;
+}
+
+em {
+  text-decoration: underline;
+}
+
 @media only screen and (max-width: 1440px) { 
   .content article .body .media .caption {
     padding-top: 10px;
   }
+
+}
+
+@media only screen and (max-width: 634px) { 
+  h2 { padding-top: 40px; }
 }
