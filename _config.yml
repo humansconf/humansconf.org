@@ -9,9 +9,11 @@ url: "https://humansconf.org" # the base hostname & protocol for your site, e.g.
 twitter_username: humansconf
 github_username:  humansconf
 
-# Build settings
 plugins:
   - jekyll-feed
+
+include:
+  - _redirects
 
 # Exclude from processing.
 # The following items will not be processed, by default.
