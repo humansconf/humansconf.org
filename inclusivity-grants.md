@@ -20,7 +20,8 @@ In order to apply for a inclusivity grant you need to register for the conferenc
 
 ## Sponsoring an Inclusivity Grant
 
-As a sponsor of grants you will receive recognition of the #humansconf community by being mentioned multiple times by our [Twitter account @humansconf](https://twitter.com/humansconf) and during the conference. Furthermore, as a grant sponsor you can be sure to make people smile, make the world a better place and enjoy a warm fuzzy feeling
+As a sponsor of grants you will receive recognition of the #humansconf community by being mentioned by our [Twitter account @humansconf](https://twitter.com/humansconf) and during the conference, and your logo on our website.  
+Furthermore, as a grant sponsor you can be sure to make people smile, make the world a better place and enjoy a warm fuzzy feeling
 that comes with having done the right thing. 😊
 
 The costs of sponsoring one grant are detailed on the [Costs](/costs) page. Of course, a single sponsor can cover the costs of multiple grants.
