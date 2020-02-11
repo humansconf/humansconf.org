@@ -1,6 +1,5 @@
 ---
 layout: page
-header_image: 'header-costs.jpg'
 meta_description: >-
   How much does it cost to come to #humansconf?
 summary: >-
@@ -9,13 +8,20 @@ title: 'Costs of Participating at #humansconf'
 permalink: /costs
 ---
 
-The [venue](/venue-and-date), where #humansconf takes place,  can host up to 97 participants (if all double rooms are used by two people). The conference has the venue booked exclusively for the duration of #humansconf, which allows for a great atmosphere of exchange, as everyone at the venue will be a participant. Plus, the fact that the venue is a hotel means that there is no additional travel between venue and accommodation.
+## Tickets for #humansconf are free?
+
+**Yes, tickets for #humansconf are free of costs.**  
+As such, when registering for a ticket, the organizers won't collect any money from participants.
+
+However, the conference itself is not free of costs.
+
+**Participating in the conference, requires you to pay for a hotel room at the venue of the conference.**  
+The rooms' costs get paid directly to the hotel and we do not make any profit from it.
+
 
 ## What is included in the price?
 
 A ticket to the conference means there's a room booked on your name at the #humansconf venue.
-
-**When registering for a ticket the organizers won't collect any money from participants. The rooms' costs get paid directly to the hotel and we do not make any profit from it.**
 
 The price of a room include breakfast, lunch and dinner for the whole stay. Throughout Friday and Saturday of the conference snacks, fruits, coffee, tea and water will be available at no cost to participants. Drinks at the bar are _not_ included in the room's price.
 
