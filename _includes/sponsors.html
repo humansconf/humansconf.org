@@ -1,0 +1,14 @@
+<ul class="sponsors">
+  {% for sponsor in site.data.sponsors %}
+  <li>
+    <a href="{{sponsor.url}}">
+      <figure>
+        <img src="{{sponsor.image_path}}" />
+        <figcaption>
+          {{sponsor.name}}
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
