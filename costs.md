@@ -1,5 +1,6 @@
 ---
 layout: page
+header_image: "header-costs.jpg"
 meta_description: >-
   How much does it cost to come to #humansconf?
 summary: >-
