@@ -16,15 +16,6 @@ The [venue is surrounded by beautiful nature][venue-streetmap], and can host up 
 
 Plus, the fact that the venue is a hotel, means there’s no additional travel between venue and accommodation needed, but we all can focus on the conference without having to split up in the evenings. We just stay where we are and use the space of the venue for whatever we like.
 
-## Food
-
-We asked the venue, to serve only vegan food throughout the whole conference. Please be aware of this, when registering.
-
-
-## Accessibility of the Venue
-
-We're currently in the process of gathering detailed info about wheelchair accessibility of the venue, and will update this section soon. In case you have any questions with regards to this topic, don't hesitate to contact us at [hello@humansconf.org](mailto:{{ site.email }}), or [tweet at us](https://twitter.org/humansconf).
-
 
 ## Travelling to the Venue
 
