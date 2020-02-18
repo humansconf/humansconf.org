@@ -17,7 +17,7 @@ Header photo on [Venue](/venue) is from [https://www.natuerlich-tagen.de/](https
 
 Header photo on [Format](/format) is ["Whangarei Falls Footbridge"](https://unsplash.com/photos/eOpewngf68w) by [Tim Swaan](https://unsplash.com/@timswaanphotography)
 
-Header photo on [Register](/register) is ["Silver-colored Pocket Watch"](https://unsplash.com/photos/vuEiSEegQAk) by [Shawn Lee](https://unsplash.com/@shawn99lee)
+Header photo on [Register](/register) is from [https://www.natuerlich-tagen.de/](https://www.natuerlich-tagen.de/)
 
 Header photo on [Inclusivity Grants](/inclusivity-grants) is ["Tattoo brothers"](https://unsplash.com/photos/FAebY51RJ_c) by [Maks Styazhkin](https://unsplash.com/@mstyazhkin)
 
