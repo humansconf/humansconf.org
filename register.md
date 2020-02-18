@@ -39,6 +39,10 @@ A certain quota of tickets in each ticket pool are reserved for members from und
 
 If you identify as a member of an under-indexed group, you can check a checkbox during registration, which raises your chance of getting a ticket.[^1] We trust that you know best if it applies to you, so we will not ask for further evidence at anytime.
 
+### Lottery Runs
+
+The first lottery run will take place on 6-March, and after that as needed. This means the earliest notification emails will arrive during the day of 6-March.
+
 ----
 
 [registerform]: https://forms.gle/hfmFcUgn5v2bk5cw8
