@@ -1,7 +1,8 @@
 ---
 layout: page
 header_image: "header-register.jpg"
-#meta_description: >-
+meta_description: >-
+  Register for #humansconf, the conference centered around the most important thing when it comes to impactful technology products: People & their interactions! #humansconf is an Open Space and takes place from 21-23 May 2020 in Rückersbach in Germany.
 summary: >-
   Register for participating in #humansconf
 title: "Register for #humansconf"
