@@ -4,7 +4,7 @@ header_image: "header-register.jpg"
 #meta_description: >-
 summary: >-
   Register for participating in #humansconf
-title: Register for #humansconf
+title: "Register for #humansconf"
 permalink: /register
 ---
 
