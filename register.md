@@ -15,7 +15,7 @@ tl;dr [Register for our ticket lottery][registerform], to participate at #humans
 ## How to get a Ticket for #humansconf
 
 Getting a ticket for participating at #humansconf is 3-step procedure:
-- Register for our ticket lottery via the [our registration form](registerform)
+- Register for our ticket lottery via the [our registration form][registerform]
 - Wait until we notify you via email, that you won a ticket in the lottery
 - Accept your ticket within 72 hours after receiving your notification email, by visiting the sign-up link that you'll receive as part of the notification email
 
