@@ -8,19 +8,38 @@ title: Register for #humansconf
 permalink: /register
 ---
 
-TODO THIS IS A DRAFT
+tl;dr [Register for our ticket lottery][registerform], to participate at #humansconf.
 
-If you want to participate at #humansconf, you will need to register and receive a ticket.
+----
 
-Where #humansconf differs from most conferences, is that the ticket to the conference itself is free.  However, when coming to #humansconf, you will have to cover the costs of your stay at the [venue of the conference](/venue-and-date). We've [detailed the costs are put together and their amount on an extra page](/costs).
-
-Tickets for #humansconf are raffled in regular lottery runs, and a certain contingent of tickets are reserved for members from under-indexed groups.
+## How to get a Ticket for #humansconf
 
 Getting a ticket for participating at #humansconf is 3-step procedure:
-- Register via this form **TODO ADD LINK**
-- Wait until you get a ticket assigned in a lottery run
-- Confirm you registration by providing us some more information
+- Register for our ticket lottery via the [our registration form](registerform)
+- Wait until we notify you via email, that you won a ticket in the lottery
+- Accept your ticket within 72 hours after receiving your notification email, by visiting the sign-up link that you'll receive as part of the notification email
 
+## How the Ticket Lottery works
 
-community organized, not-for-profit
+Tickets for #humansconf are raffled in periodic lottery runs and there are two ticket pools from which tickets are drawn:
 
+1. Single rooms
+2. Double rooms
+
+We will ask you during [registration][registerform] if you plan to come alone, or if you would like to bring others with you to the conference.
+
+When answering that you'll bring others with you, you automatically enter the lottery for double rooms. If not, then your registration enters the lottery for single rooms.  
+Registering for both lotteries, will dismiss your lottery entrance.
+
+Getting a ticket in a lottery run means you get a room that you can fill as you want (with a partner, with a friend, with your family incl. kids etc.). Being in a room means having access to the conference.
+
+### Reserved Ticket Quotas
+
+A certain quota of tickets in each ticket pool are reserved for members from under-indexed groups, and for grantees of our [inclusivity grants](/inclusivity-grants).
+
+If you identify as a member of an under-indexed group, you can check a checkbox during registration, which raises your chance of getting a ticket.[^1] We trust that you know best if it applies to you, so we will not ask for further evidence at anytime.
+
+----
+
+[registerform]: https://forms.gle/hfmFcUgn5v2bk5cw8
+[^1]: You think this is unfair? Well, actually [it is not](https://geekfeminism.wikia.org/wiki/Reverse_sexism).

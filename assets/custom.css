@@ -1,13 +1,8 @@
 h2 { padding-top: 50px; }
 h3 { padding-top: 30px; }
-
-#markdown-toc {
-  padding-bottom: 25px;
-}
-
-em {
-  text-decoration: underline;
-}
+#markdown-toc { padding-bottom: 25px; }
+em { text-decoration: underline; }
+hr { margin: 30px 0px 30px 0px; }
 
 .sponsors {
   text-align: center;
@@ -24,6 +19,10 @@ em {
   max-width: 400px;
 }
 
+.footnotes {
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 1440px) {
   .content article .body .media .caption {
     padding-top: 10px;
@@ -33,4 +32,5 @@ em {
 
 @media only screen and (max-width: 634px) {
   h2 { padding-top: 40px; }
+  #venue-streetmap { display: none; }
 }
