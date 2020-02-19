@@ -7,6 +7,11 @@ summary: >-
 title: "#humansconf"
 ---
 
+## Register
+
+You can [register for participating in #humansconf](/register).
+
+
 ## Our Vision
 
 Successful technology products tell a story about humans who came together to solve complex problems that touch people’s lives. It’s a story of collaboration, sharing, communication and empathy. But more often than not, this side of the story gets overlooked in favour of programming languages or frameworks — even though it’s the one piece of the puzzle all successful projects have in common.
