@@ -20,6 +20,7 @@ At the moment, we offer organisations  who sponsor the tickets for under-indexe
 ## What exactly attendees have to do ?
 
 The conference is going to use the concept of "Open Space" to organize the content. The agenda of the conference is collaboratively created during the event, and everybody gets to contribute. The focus of the event is around people : teams building technology, collaboration, building empathy, mental health at work etc. 
+To know more, please checkout the [format of the event](/format)
 
 
 ----
