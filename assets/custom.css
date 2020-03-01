@@ -33,6 +33,21 @@ em {
   max-width: 400px;
 }
 
+.organizers {
+  padding: 0;
+}
+
+.organizers li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.organizers li img {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+}
+
 .footnotes {
   margin-top: 50px;
 }
