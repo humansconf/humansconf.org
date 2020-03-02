@@ -1,17 +1,24 @@
 - name: Benjamin Reitzammer
   gravatar_digest: 15224a23a52ba9188023e801e9465337
+  twitter_handle: benjamin
 - name: Andrei Bechet
   gravatar_digest: e92b52f81f5e42f62db4745d06bffdee
+  twitter_handle: goosebumps4
 - name: Christian Bäuerlein
   gravatar_digest: 37df158edd0f4ca5fc2fff2e87f43487
+  twitter_handle: fabrik42
 - name: Cosima Laube
   image_path: images/organizers/cosima.jpg
+  twitter_handle: gazebo_c
 - name: Daniel Bolívar
   gravatar_digest: e3563bd48c6ac6a1293b7ff0db669f29
+  twitter_handle: ddanielbee
 - name: Julian Felix Rost
   gravatar_digest: 38e91be325d2bb9a22f8d58f0b61c4c9
+  twitter_handle: therealjfrost
 - name: Raimo Radczewski
   gravatar_digest: 5f461b8687a824bc70e785739e9f17c7
+  twitter_handle: rradczewski
 - name: Vivek Juneja
   gravatar_digest: 21ee812a35c9987d5f3e97a46a22b442
-
+  twitter_handle: vivekjuneja

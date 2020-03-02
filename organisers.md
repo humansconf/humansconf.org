@@ -1,17 +1,16 @@
 ---
 layout: page
-header_image: "header-organizers.jpg"
 meta_description: >-
-  #humansconf is organized by these people
+  Meet the organizers of #humansconf
 summary: >-
-  #humansconf is organized by this group of people
-title: Team
+  Meet the organizers of #humansconf
+title: Organizers
 permalink: /organizers
 ---
 
-The humansconf is organized by a number of volunteers.
+#humansconf is organized by a number of volunteers.
 
-Approach them with any kind of questions before and during the conference, they will be happy to help.
+Approach any of us directly with any kind of questions before and during the conference, or write an <a href="mailto:{{ site.email }}">email to the team</a>. We're happy to help!
 
 <ul class="organizers">
   {% for organizer in site.data.organizers %}
@@ -23,7 +22,7 @@ Approach them with any kind of questions before and during the conference, they 
         <img src="{{organizer.image_path}}" />
       {% endif %}
       <figcaption>
-        {{organizer.name}}
+        <a href="https://twitter.com/{{ organizer.twitter_handle }}"><small>{{organizer.name}}</small></a>
       </figcaption>
     </figure>
   </li>
