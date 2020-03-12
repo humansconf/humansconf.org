@@ -11,6 +11,8 @@ title: "#humansconf"
 
 You can [register for participating in #humansconf](/register).
 
+[Follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important updates there too.
+
 
 ## Our Vision
 
@@ -27,23 +29,13 @@ The conference is a place for people who are interested in an exchange about hum
 
 The conference will be organized as an [Open Space](/format), so every participant is a speaker and there’s no distinction between speakers and listeners.
 
-We're a [family][family] and [child-friendly][childcare] event and aim to be as [accessible][accessibility] and inclusive as possible
+We're a [family][family] and [child-friendly][childcare] event and aim to be as [accessible][accessibility] and inclusive as possible.
 
 
 ### Date
 
 #humansconf will start in the late afternoon of Thursday 21-May-2020 and last until late afternoon of Saturday 23-May-2020. Take a look at our [schedule][schedule], where we listed some more details on the "when".
 
-
-## Get notified
-
-If you'd like to get notified once we open our registration, please leave your email address at the following form.
-
-{% include mailchimp-interest-form.html %}
-
-We will use your provided email address only for the purpose of sending you an email, informing you about the opening registration of #humansconf opens. We will never share your email address with other parties, and handle it, according to our [privacy policy](/imprint).
-
-Alternatively you can also [follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important updates there too.
 
 [schedule]: /format#schedule
 [family]: /accessibility#family-friendly
