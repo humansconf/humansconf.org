@@ -11,6 +11,10 @@ permalink: /register
 
 tl;dr [Register for our ticket lottery][registerform], to participate at #humansconf.
 
+### What Coronavirus means for #humansconf
+
+Right now, we're working with the venue to postpone a potential decision to cancel as long as possible. This means that you can still register for the conference. And if you're interested in participating in #humansconf, you should do so, as the available tickets are almost taken.
+
 ----
 
 - TOC
