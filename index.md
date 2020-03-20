@@ -7,6 +7,13 @@ summary: >-
 title: "#humansconf"
 ---
 
+# Cancellation
+
+[this is the cancellation text]
+
+We don't give up on humansconf!
+
+[Subscribe to our newsletter to stay up to date!](#get-notified)
 
 
 
