@@ -63,3 +63,13 @@ em {
   h2 { padding-top: 40px; }
   #venue-streetmap { display: none; }
 }
+
+.alert-banner {
+  background-color: #721c24;
+  color: white;
+  padding: 30px;
+}
+
+.alert-banner-header {
+  color: white;
+}
