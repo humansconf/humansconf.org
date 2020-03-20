@@ -7,9 +7,7 @@ summary: >-
 title: "#humansconf"
 ---
 
-## Register
 
-You can [register for participating in #humansconf](/register).
 
 
 ## Our Vision
@@ -28,12 +26,6 @@ The conference is a place for people who are interested in an exchange about hum
 The conference will be organized as an [Open Space](/format), so every participant is a speaker and there’s no distinction between speakers and listeners.
 
 We're a [family][family] and [child-friendly][childcare] event and aim to be as [accessible][accessibility] and inclusive as possible
-
-
-### Date
-
-#humansconf will start in the late afternoon of Thursday 21-May-2020 and last until late afternoon of Saturday 23-May-2020. Take a look at our [schedule][schedule], where we listed some more details on the "when".
-
 
 ## Get notified
 
