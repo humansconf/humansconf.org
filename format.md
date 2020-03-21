@@ -83,7 +83,7 @@ We encourage everyone to speak English at all times, even when in small groups i
 <a name="schedule"></a>
 ## Schedule: Thursday to Saturday
 
-The conference will run from late afternoon of Thursday the 21st of May, to late afternoon of Saturday the 23rd. Even though there's no predefined schedule of sessions, there's still some structure. Here’s how that will look like: 
+The conference will run from late afternoon of a Thursday to late afternoon of a Saturday. Even though there's no predefined schedule of sessions, there's still some structure. Here’s how that will look like: 
 
 
 <a name="thursday"></a>

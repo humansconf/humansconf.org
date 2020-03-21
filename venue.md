@@ -34,17 +34,11 @@ If you arrive by airplane, please consider offsetting carbon-emissions, caused b
 The train station closest to the venue is "Aschaffenburg Hbf".  
 Check out [bahn.de][bahnde-searchform] to find a train connection to that suits you.
 
-_Unfortunately, 21-May is a public holiday in Germany, which makes travelling by public transport more challenging._
-
-The only real option you have is taking a taxi from "Aschaffenburg Hbf", which costs ~30 EUR, and of course less if you share a ride.
-
-
 ## Travelling Home from the Venue
 
-On Saturday 23-May, there's the regular bus line 24 running close-ish to the venue, from the stop [Rückersbach Schlucht][busstop-schlucht].
+There's a regular bus line 24 running close-ish to the venue, from the stop [Rückersbach Schlucht][busstop-schlucht].
 
 You can either use [bahn.de][bahnde-searchform] to search for a connection from this stop, or check the [official bus timetable][line24] (german only) on when to get from there to "Aschaffenburg Hbf".  
-_Note, that on Saturday the last bus leaving "Rückersbach Schlucht" departs at 5:32pm._
 
 
 [line24]: https://www.vab-info.de/eigene_dateien/pdf-download/2020_landkreis_ab/24_beide_2020.pdf

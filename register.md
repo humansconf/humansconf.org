@@ -1,19 +1,15 @@
 ---
 layout: page
 header_image: "header-register.jpg"
-meta_description: >-
-  Register for #humansconf, the conference centered around the most important thing when it comes to impactful technology products: People & their interactions! #humansconf is an Open Space and takes place from 21-23 May 2020 in Rückersbach in Germany.
-summary: >-
-  Register for participating in #humansconf
+meta_description: "As #humansconf is cancelled, it's no longer possible to register for a ticket."
 title: "Register for #humansconf"
 permalink: /register
 ---
 
-tl;dr [Register for our ticket lottery][registerform], to participate at #humansconf.
 
 ### What Coronavirus means for #humansconf
 
-Right now, we're working with the venue to postpone a potential decision to cancel as long as possible. This means that you can still register for the conference. And if you're interested in participating in #humansconf, you should do so, as the available tickets are almost taken.
+#humansconf is cancelled, and will not happen in May 2020! Therefore it's no longer possible to register for a ticket. If you want to be notified as soon as we know more about a new date, [sign up to our newsletter](/#get-notified) to get notified.
 
 ----
 
@@ -25,7 +21,7 @@ Right now, we're working with the venue to postpone a potential decision to canc
 ## How to get a Ticket for #humansconf
 
 Getting a ticket for participating at #humansconf is 3-step procedure:
-1. Register for our ticket lottery via the [our registration form][registerform].
+1. Register for our ticket lottery via the registration form.
 1. Wait until we notify you via email, that you won a ticket in the lottery.
 1. Accept your ticket within 72 hours after receiving your notification email, by filling out a second sign-up form that you'll receive as part of the notification email. In that sign-up form we'll gather some more information such as possible dietary restrictions, your billing information etc.
 
@@ -36,7 +32,7 @@ Tickets for #humansconf are raffled in periodic lottery runs and there are two t
 1. Single rooms
 2. Double rooms
 
-We will ask you during [registration][registerform] if you plan to come alone, or if you would like to bring others with you to the conference.
+We will ask you during registration if you plan to come alone, or if you would like to bring others with you to the conference.
 
 When answering that you'll bring others with you, you automatically enter the lottery for double rooms. If not, then your registration enters the lottery for single rooms.
 
@@ -65,5 +61,4 @@ The first lottery run will take place on 6-March, and after that as needed. This
 
 ----
 
-[registerform]: https://forms.gle/hfmFcUgn5v2bk5cw8
 [^1]: You think this is unfair? Well, [actually it is not](https://geekfeminism.wikia.org/wiki/Reverse_sexism).
