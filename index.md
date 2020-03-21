@@ -17,7 +17,7 @@ no_alert_banner: true
 > 
 > However, we don't give up on #humansconf. It will be back, latest in 2021!
 > 
-> Until then, we plan to experiment with some only formats. After all, we still believe strongly in the idea, that people and empathic, human-centered interactions are the most important factor for successful products and projects.
+> Until then, we plan to experiment with some online formats. After all, we still believe strongly in the idea, that people and empathic, human-centered interactions are the most important factor for successful products and projects.
 > 
 > Our hearts go out to all of you! Take care of yourself, your loved ones and others during these trying times!
 >
