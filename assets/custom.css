@@ -52,6 +52,23 @@ em {
   margin-top: 50px;
 }
 
+
+.alert-banner {
+  background-color: #721c24;
+  color: white;
+  padding: 30px;
+}
+
+.alert-banner-header {
+  color: white;
+}
+
+blockquote {
+  background-color: #e6e6e659;
+  margin: 0;
+  padding: 20px 40px 20px 40px
+}
+
 @media only screen and (max-width: 1440px) {
   .content article .body .media .caption {
     padding-top: 10px;
@@ -62,14 +79,4 @@ em {
 @media only screen and (max-width: 634px) {
   h2 { padding-top: 40px; }
   #venue-streetmap { display: none; }
-}
-
-.alert-banner {
-  background-color: #721c24;
-  color: white;
-  padding: 30px;
-}
-
-.alert-banner-header {
-  color: white;
 }

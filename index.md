@@ -3,19 +3,27 @@ layout: page
 header_image: header-index.jpg
 summary: >-
   A conference centered around the most important thing when it comes to impactful technology products: People & their interactions!
-  <div class="meta"><b>May 21-23, 2020</b> at SeminarZentrum Rückersbach</div>
 title: "#humansconf"
+no_alert_banner: true
 ---
 
-# Cancellation
+# #humansconf 2020 is cancelled!
 
-[this is the cancellation text]
+> Dear all who are interested in #humansconf,
+> 
+> with heavy heart we must tell you that #humansconf is cancelled and will not happen as planned!
+> 
+> Given the current circumstances, a global pandemic causing lockdowns all over the world and especially in the area of the conference venue, there really is not much of choice there.
+> 
+> However, we don't give up on #humansconf. It will be back, latest in 2021!
+> 
+> Until then, we plan to experiment with some only formats. After all, we still believe strongly in the idea, that people and empathic, human-centered interactions are the most important factor for successful products and projects.
+> 
+> Our hearts go out to all of you! Take care of yourself, your loved ones and others during these trying times!
+>
+> <i>[The organizers](/organizers)</i>
 
-We don't give up on humansconf!
-
-[Subscribe to our newsletter to stay up to date!](#get-notified)
-
-
+You can [subscribe to our newsletter](#get-notified) to stay up to date and get notified of any important updates and online events!
 
 ## Our Vision
 
@@ -24,7 +32,6 @@ Successful technology products tell a story about humans who came together to so
 We aim to bring together people from all kinds of backgrounds and roles to discuss, share, and celebrate the stories and lessons learnt when humans come together.
 
 As such, you're welcome and we want to hear your stories, want you to share your ideas, no matter what background you have and in what role you've worked in the past or are currently working.
-
 
 ## Conference
 
@@ -38,9 +45,9 @@ We're a [family][family] and [child-friendly][childcare] event and aim to be as 
 
 If you'd like to get notified once we open our registration, please leave your email address at the following form.
 
-{% include mailchimp-interest-form.html %}
+{% include mailerlite-interest-form.html %}
 
-We will use your provided email address only for the purpose of sending you an email, informing you about the opening registration of #humansconf opens. We will never share your email address with other parties, and handle it, according to our [privacy policy](/imprint).
+We will never share your email address with other parties and handle it according to our [privacy policy](/imprint).
 
 Alternatively you can also [follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important updates there too.
 

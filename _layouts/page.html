@@ -12,6 +12,7 @@ layout: default
       </div>
     </header>
 
+    {% unless page.no_alert_banner %}
     <section class="alert-banner">
       <h1 class="alert-banner-header">#humansconf is cancelled!</h1>
       <p>
@@ -20,6 +21,7 @@ layout: default
         <a href="/#cancellation">please read here</a>.
       </p>
     </section>
+    {% endunless %}
 
     <div class="body">
     {{ content }}
