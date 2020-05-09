@@ -2,9 +2,14 @@
 layout: page
 header_image: header-index.jpg
 summary: >-
-  Events and a community centered around the most important thing when it comes to impactful technology products: People & their interactions!
+  A community and event series centered around the most important thing when it comes to impactful technology products: People & their interactions!
 title: "#humansconf"
 ---
+
+## Virtual Open Space
+
+Our first Virtual Open Space, that is a fully online event, will take place on June 2nd. [Check out the invitation and register](/events/2020-06-02-virtual-open-space).
+
 
 ## Our Vision
 
@@ -15,9 +20,9 @@ We aim to bring together people from all kinds of backgrounds and roles to discu
 As such, you're welcome and we want to hear your stories, want you to share your ideas, no matter what background you have and in what role you've worked in the past or are currently working.
 
 
-## Virtual Open Space
+## Newsletter
 
-We're planning our first Virtual Open Space for early June 2020. Sign up for our newsletter to get notified when we release more details.
+Sign up for our newsletter, to get notified of important updates and future events.
 
 {% include mailerlite-interest-form.html %}
 
@@ -26,8 +31,3 @@ We will never share your email address with other parties and handle it accordin
 Alternatively you can [follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important updates there too.
 
 
-## Conference
-
-The initial idea of #humansconf was to bring people together in the form of a conference. A conference for people who are interested in an exchange about human-centered organizations, approaches, techniques and more, in the technology space. It was planned to be organized in the [format of an Open Space](/format), so every participant is a speaker and there’s no distinction between speakers and listeners.
-
-The COVID-19 pandemic of 2020 called for [a change of plans](/2020-cancellation). So, we switched to online events.

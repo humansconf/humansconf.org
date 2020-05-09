@@ -24,3 +24,7 @@ Header photo on [Inclusivity Grants](/inclusivity-grants) is ["Tattoo brothers"]
 Header photo on [Costs](/costs) is ["Person holding Pen Above White Open Notebook"](https://unsplash.com/photos/_r6X-xFcASk) by [Timothy L Brock](https://unsplash.com/@timothylbrock)
 
 Photo of Open Space Marketplace on [Format](/format) is by [Nelis Boucké](https://twitter.com/nelisboucke/status/1005004812352565249)
+
+Header photo on [/events/2020-06-02-virtual-open-space](/events/2020-06-02-virtual-open-space) is ["The World News Photo"](https://unsplash.com/photos/TM0Iw87uiCY) by [United Nations COVID-19 Response](https://unsplash.com/@unitednations)
+
+Header photo on [Events](/events/) is ["Wandering Koreatown I found a welcoming watering hole."](https://unsplash.com/photos/WHUDOzd5IYU) by [Adam Solomon](https://unsplash.com/@solomac)

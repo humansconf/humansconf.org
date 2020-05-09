@@ -6,9 +6,16 @@ summary: >-
 title: "#humansconf 2020 is cancelled"
 ---
 
-# #humansconf 2020 is cancelled!
+## Conference
 
-The following message was shared with everybody interested in #humansconf and registered participants, on 21-March-2020.
+The initial idea of #humansconf was to bring people together in the form of a conference. A conference for people who are interested in an exchange about human-centered organizations, approaches, techniques and more, in the technology space. It was planned to be organized in the [format of an Open Space](/format), so every participant is a speaker and there’s no distinction between speakers and listeners.
+
+The COVID-19 pandemic of 2020 called for [a change of plans](/2020-cancellation). So, we switched to online events.
+
+
+## #humansconf 2020 is cancelled!
+
+The following message was then shared with everybody interested in #humansconf and registered participants, on 21-March-2020.
 
 > Dear all who are interested in #humansconf,
 > 
