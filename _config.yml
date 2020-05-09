@@ -1,11 +1,9 @@
 title: humansconf
 email: hello@humansconf.org
-description: >- # this means to ignore newlines until "baseurl:"
-  humansconf is a conference that aims to bring together people from all kinds of backgrounds and roles to discuss,
-  share, and celebrate the stories and lessons learnt when humans come together to build impactful products.
-  It takes place from 21-23 May 2020 at Seminarzentrum Rückersbach in Germany.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://humansconf.org" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+  #humansconf is a community and event series centered around the most important thing when it comes to impactful technology products: People & their interactions!
+baseurl: ""
+url: "https://humansconf.org"
 twitter_username: humansconf
 github_username:  humansconf
 
