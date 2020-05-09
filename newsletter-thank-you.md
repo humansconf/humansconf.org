@@ -3,7 +3,6 @@ layout: page
 summary: You're now subscribed to our newsletter
 title: Thank You!
 permalink: /newsletter-thank-you
-no_alert_banner: true
 ---
 
 You can unsubscribe any time!

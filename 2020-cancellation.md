@@ -4,7 +4,6 @@ header_image: header-index.jpg
 summary: >-
   The event that was scheduled for May 21-23 2020, to be held in SeminarZentrum Rückersbach in Germany, is cancelled.
 title: "#humansconf 2020 is cancelled"
-no_alert_banner: true
 ---
 
 # #humansconf 2020 is cancelled!

@@ -4,7 +4,6 @@ header_image: header-index.jpg
 summary: >-
   Events and a community centered around the most important thing when it comes to impactful technology products: People & their interactions!
 title: "#humansconf"
-no_alert_banner: true
 ---
 
 ## Our Vision
