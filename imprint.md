@@ -55,18 +55,6 @@ Besucher der Website humansconf.org können freiwillig ihre Email-Adresse hinter
 
 Die Email-Adresse wird durch den Dritt-Anbieter [Mailerlite][mailerlite] verarbeitet und gespeichert. Details dazu sind in den [Datenschutzbestimmungen von Mailerlite][mailerlite-gdpr] beschrieben.
 
-### Google Forms
-
-Bei der Registrierung für die Konferenz mit dem Namen #humansconf, werden Daten durch die Plattform [Google
-Forms](https://www.google.de/intl/de/forms/about/) erfasst. Hierbei werden die Daten durch die Plattform Google Forms
-gespeichert und verarbeitet. Hierbei findet die [Datenschutzerklärung &
-Nutzungsbedingungen von Google](https://policies.google.com/privacy) Anwendung.
-
-Darüber hinaus, werden bei der Registrierung für die Konferen #humansconf personenbezogene Daten and den
-Betreiber des Veranstaltungsortes, das [SeminarZentrum Rückersbach](https://www.natuerlich-tagen.de/), übertragen.
-Hierbei findet die [Datenschutzerklärung des SeminarZentrum Rückersbach](https://www.natuerlich-tagen.de/datenschutz/)
-Anwendung.
-
 
 <a name="english"></a>
 
@@ -87,12 +75,6 @@ See [Netlify's privacy policy][netlify-gdpr] for more details.
 Visitors of the humansconf.org website can choose to submit their email-address, to get notified of important updates regarding the #humansconf event.
 
 Email-addresses submitted in this way, will be processed by the third-party service [Mailerlite][mailerlite]. Details on how Mailerlite processes personal data, can be found in [Mailerlite's privacy policy][mailerlite-gdpr].
-
-### Google Forms
-
-If you register for the conference #humansconf, the data that you provide during registration will be processed via the service [Google Forms](https://www.google.de/intl/de/forms/about/). See the [privacy policy of Google](https://policies.google.com/privacy) for details on how Google processes personal identifiable information.
-
-Furthermore, when registering for #humansconf, personal identifiable data that you shared with us during the registration, will be sent to and processed by the venue of the conference, which is [SeminarZentrum Rückersbach](https://www.natuerlich-tagen.de). See the [privacy policy of SeminarZentrum Rückersbach](https://www.natuerlich-tagen.de/datenschutz/) on how they process your date.
 
 
 [mailerlite]: https://www.mailerlite.com/
