@@ -39,7 +39,7 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 ## Datenschutz
 
-Die Website humansconf.org sammelt keinerlei personenbezogene Daten ihrer Besucher, verwendet keine Cookies oder jegliche andere Form von Benutzerverfolgung.
+Die Website humansconf.org sammelt keinerlei personenbezogene Daten ihrer Besucher:innen, verwendet keine Cookies oder jegliche andere Form von Benutzerverfolgung.
 
 Darüber hinaus verwendet humansconf.org die Leistungen von zwei Drittanbietern, um ihren Dienst zur Verfügung zu stellen.
 
@@ -51,9 +51,16 @@ Mehr Informationen hierzu finden sich in [Netlify's Datenschutzbestimmungen][net
 
 ### Mailerlite
 
-Besucher der Website humansconf.org können freiwillig ihre Email-Adresse hinterlassen, um über wichtige Neuigkeiten im Rahmen der Veranstaltung #humansconf informiert zu werden.
+Besucher:innen der Website humansconf.org können freiwillig ihre Email-Adresse hinterlassen, um über wichtige Neuigkeiten im Rahmen der Veranstaltung #humansconf informiert zu werden.
 
 Die Email-Adresse wird durch den Dritt-Anbieter [Mailerlite][mailerlite] verarbeitet und gespeichert. Details dazu sind in den [Datenschutzbestimmungen von Mailerlite][mailerlite-gdpr] beschrieben.
+
+### Notion.so
+
+Die Email-Adressen von Teilnehmer:innen an Online-Veranstaltungen, die durch #humansconf veranstaltet werden, werden zur Bereitstellung einer Veranstaltungsagenda an den Dritt-Anbieter [Notion.so][notion] weitergeleitet.
+
+Die Email-Adresse wird durch den Dritt-Anbieter [Notion][notion] verarbeitet und gespeichert. Details dazu sind in den [Datenschutzbestimmungen von Notion][notion-privacy] beschrieben.
+
 
 
 <a name="english"></a>
@@ -76,8 +83,17 @@ Visitors of the humansconf.org website can choose to submit their email-address,
 
 Email-addresses submitted in this way, will be processed by the third-party service [Mailerlite][mailerlite]. Details on how Mailerlite processes personal data, can be found in [Mailerlite's privacy policy][mailerlite-gdpr].
 
+### Notion.so
+
+The email-addresses of people that signup for participating in online events organized by #humansconf, are forwared to [Notion][notion] in order to provide a service for managing and displaying an online event's agenda.
+
+Email-addresses processed in this way, will be processed by the third-party service [Notion][notion]. Details on how Notion processes personal data, can be found in [Notion's privacy policy][notion-privacy].
+
+
 
 [mailerlite]: https://www.mailerlite.com/
 [mailerlite-gdpr]: https://www.mailerlite.com/gdpr-compliance
 [netlify]: https://www.netlify.com/
 [netlify-gdpr]: https://www.netlify.com/gdpr/
+[notion]: https://www.notion.so/
+[notion-privacy]: https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac
