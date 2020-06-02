@@ -38,9 +38,7 @@ You can view [the preliminary schedule and all sessions that have been proposed 
 
 ## Register
 
-The event is free of charge, but you need to register in order to participate.
-
-{% include mailerlite-register-form_event20200602.html %}
+Registration is closed for this event. Please [subscribe to our newsletter](/) to keep up to date on future events.
 
 ## Event Time In Your Timezone
 
