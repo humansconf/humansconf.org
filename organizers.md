@@ -14,7 +14,7 @@ Approach any of us directly with any kind of questions before and during the con
 
 <ul class="organizers">
   {% for organizer in site.data.organizers %}
-  <li>
+  <li id="{{ organizer.twitter_handle }}">
     <figure>
       {% if organizer.gravatar_digest %}
         <img src="//www.gravatar.com/avatar/{{organizer.gravatar_digest}}?s=200" />
