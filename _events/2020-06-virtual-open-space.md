@@ -7,7 +7,7 @@ summary: June 2, 2020 @ 19:00 - 22:00 CEST
 meta_description: >-
   After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we're hosting our first fully online event. On June 2nd got together for a three hour Open Space.
 excerpt: >-
-  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we've hosted our first fully online event. On June 2nd got together for a three hour Open Space.
+  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we've hosted our first fully online event. On June 2nd we got together for a three hour Open Space.
 permalink: /events/2020-06-02-virtual-open-space
 ---
 
