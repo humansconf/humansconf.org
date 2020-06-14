@@ -5,9 +5,9 @@ event_date: 2020-06-02 19:00:00 CEST
 title: "#humansconf Virtual Open Space"
 summary: June 2, 2020 @ 19:00 - 22:00 CEST
 meta_description: >-
-  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we're hosting our first fully online event. On June 2nd we will get together for a three hour Open Space.
+  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we're hosting our first fully online event. On June 2nd got together for a three hour Open Space.
 excerpt: >-
-  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we're hosting our first fully online event. On June 2nd we will get together for a three hour Open Space.
+  After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we've hosted our first fully online event. On June 2nd got together for a three hour Open Space.
 permalink: /events/2020-06-02-virtual-open-space
 ---
 
@@ -26,23 +26,22 @@ Bring your challenges, your questions, your strategies, failures, successes and 
 
 ## What To Expect
 
-An evening of inspiration, exchange and human connection. We want to host a place for people who are interested in an exchange about human-centered organizations, approaches, techniques and more.
+Now that our first event has happened (and hopefully one of many) we, the organizing team, can share that we really enjoyed ourselves during the event and are quite happy with the whole experience. For this, we can only **thank you**, the participants, because **you** made this event awesome for yourselves and for the others. Thank you ??
 
-And in the spirit of Open Space: Expect to be surprised. Whatever happens is the only thing that could have happened.
+We started this journey last year with the target to host an open space unconf next to Aschaffenburg. Due to reasons you all are aware of, sadly, we decided to postpone till next year. At the same time we did not want to give up on organizing something, hence the idea for an open space. Digital open space is a completely different environment with a different set of challenges, and of course benefits. We can say that planning was fun and we definitely learned throughout the process. 
 
-The event  will be held as a (virtual) Open Space, this means there’s no predefined schedule and thus no speakers. Rather, there’s space and time for all participants to fill with whatever is important and relevant to them.
+The event started with more than 50 lovely people joining in the main room and saying hello. [Benjamin](https://humansconf.org/organizers#benjamin), our facilitator for the evening, greeted everyone, presented the concept behind this event (what is an open space and the rules), mentioned the code of conduct. After this short intro we split up into smaller groups and joined breakout rooms to share "What feelings or needs are you bringing to the event today?" and "What were or are your biggest challenges for today?" with each other. This part turned out to be a bit short to really let everyone speak (something we'll surely change for future events), still it helped set a humane tone for the event. After two rounds of sharing our answers and views with each other, the marketplace, the place for co-creating the agenda, started.
 
-Registered participants will be able to add sessions to the schedule before the event, and it will be possible to spontaneously propose sessions for the schedule.
+There were already some topics present on the [agenda](https://www.notion.so/June-2nd-2020-Virtual-Open-Space-26d1d0595b4b4574baf647025f3be544). The session hosts, those who had added sessions to the agenda already, started to briefly present the topic they wanted to talk about, discuss or learn from others, very much as it's common at in-person Open Spaces. During this time others started to fill the still empty slots in the agenda and took turns describing them. At the end of it we had a full schedule, ten different sessions distributed across two time slots and five rooms ... how awesome is that! ??
 
-You can view [the preliminary schedule and all sessions that have been proposed so far][event-schedule].
+Sessions started, and people left the main room. It was fun to notice the concept of _butterflies_ exists also in online open spaces. After all sessions ended, we again convened in the main room. We jointly reflected on the sessions and what we each take away from the event. Everyone seemed tired, yet energized and in a good mood.
 
-## Register
+It was great to see the session hosts [harvesting notes from their session directly on the board with the agenda](https://www.notion.so/June-2nd-2020-Virtual-Open-Space-26d1d0595b4b4574baf647025f3be544).
 
-Registration is closed for this event. Please [subscribe to our newsletter](/) to keep up to date on future events.
+Several participants also shared their notes and experiences on [twitter](https://twitter.com/hashtag/humansconf). 
 
-## Event Time In Your Timezone
+All in all, we, the organizers, are very thankful! For all of you joining us on our journey, showing up and sharing, creating lots of human connections along the way.
 
-You can use [everytimezone](https://everytimezone.com/s/160437ec) to convert the events' time to your local timezone.
-
+We are very much looking forward to the next event. Stay tuned :) 
 
 [event-schedule]: https://www.notion.so/humansconf/June-2nd-2020-Virtual-Open-Space-26d1d0595b4b4574baf647025f3be544
