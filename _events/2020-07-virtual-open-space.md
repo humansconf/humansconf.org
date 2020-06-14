@@ -32,8 +32,6 @@ Check out our [description of our first Virtual Open Space](/events/2020-06-02-v
 
 An evening of inspiration, exchange and human connection. We want to host a place for people who are interested in an exchange about human-centered organizations, approaches, techniques and more.
 
-And in the spirit of Open Space: Expect to be surprised. Whatever happens is the only thing that could have happened.
-
 The event  will be held as a (virtual) Open Space, this means there’s no predefined schedule and thus no speakers. Rather, there’s space and time for all participants to fill with whatever is important and relevant to them.
 
 Registered participants will be able to add sessions to the schedule before the event, and it will be possible to spontaneously propose sessions for the schedule.
