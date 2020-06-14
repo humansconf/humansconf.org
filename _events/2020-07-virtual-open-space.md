@@ -46,7 +46,8 @@ The event is free of charge, but you need to register in order to participate.
 
 ## Event Time In Your Timezone
 
-You can use [everytimezone](https://everytimezone.com/s/160437ec) to convert the events' time to your local timezone.
+You can use [everytimezone][everytimezone] to convert the events' time to your local timezone.
 
 
 [event-schedule]: https://www.notion.so/July-15-2020-Virtual-Open-Space-91f9a2cbbac646768b3a20609f4ec595
+[everytimezone]: https://everytimezone.com/s/0cc136ab
