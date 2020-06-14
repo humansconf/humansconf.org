@@ -20,6 +20,11 @@ We aim to bring together people from all kinds of backgrounds and roles to discu
 As such, you're welcome and we want to hear your stories, want you to share your ideas, no matter what background you have and in what role you've worked in the past or are currently working.
 
 
+## You Got This
+
+Humansconf is part of [You Got This](https://yougotthis.io), a network of community conferences on the non-technical 'core' skills needed for a happy, healthy work life.
+
+
 ## Newsletter
 
 Sign up for our newsletter, to get notified of important updates and future events.
@@ -29,5 +34,3 @@ Sign up for our newsletter, to get notified of important updates and future even
 We will never share your email address with other parties and handle it according to our [privacy policy](/imprint).
 
 Alternatively you can [follow us on Twitter](https://twitter.com/humansconf), as we'll also announce all important updates there too.
-
-
