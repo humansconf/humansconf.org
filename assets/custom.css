@@ -57,6 +57,16 @@ em {
   max-width: 200px;
 }
 
+.you-got-this-banner {
+  background: #5853C5;
+  color: white;
+}
+
+.you-got-this-text {
+  text-align: center;
+  padding: 0.5em;
+}
+
 .footnotes {
   margin-top: 50px;
 }
