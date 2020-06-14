@@ -22,7 +22,7 @@ As such, you're welcome and we want to hear your stories, want you to share your
 
 ## You Got This
 
-Humansconf is part of [You Got This](https://yougotthis.io), a network of community conferences on the non-technical 'core' skills needed for a happy, healthy work life.
+#humansconf is part of [You Got This](https://yougotthis.io), a network of community conferences on the non-technical 'core' skills needed for a happy, healthy work life.
 
 
 ## Newsletter
