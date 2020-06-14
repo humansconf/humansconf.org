@@ -2,7 +2,7 @@
 layout: page
 header_image: header-event-20200602.jpg
 event_date: 2020-06-02 19:00:00 CEST
-title: "#humansconf Virtual Open Space"
+title: "1st #humansconf Virtual Open Space"
 summary: June 2, 2020 @ 19:00 - 22:00 CEST
 meta_description: >-
   After having to cancel our in-person conference, that was planned for end of May to take place as a two-day event, we're hosting our first fully online event. On June 2nd got together for a three hour Open Space.
