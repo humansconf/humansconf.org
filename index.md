@@ -10,6 +10,8 @@ title: "#humansconf"
 
 Our first Virtual Open Space, a fully online event, took place on June 2nd. [Check out how it went](/events/2020-06-02-virtual-open-space).
 
+Our second Virtual Open Space, again a fully online event, is scheduled to take place on July 15th. [View the invitation and register](/events/2020-07-15-virtual-open-space).
+
 
 ## Our Vision
 

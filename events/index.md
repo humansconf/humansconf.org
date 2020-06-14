@@ -8,7 +8,8 @@ permalink: /events/
 ---
 
 <div class="events">
- {% for event in site.events %}
+ {% assign sorted = site.events | reverse %}
+ {% for event in sorted %}
    <div class="event">
        <a href="{{ event.url }}" class="event-link">
          <h2 class="event-title">{{ event.title }}</h2>
