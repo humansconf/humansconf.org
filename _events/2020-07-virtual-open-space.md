@@ -15,16 +15,16 @@ An event, that will happen fully online.
 
 You can participate from around the world, be it from the coziness of your home or any other place. The only thing you need is a device with an internet connection and the ability to run the [Zoom](https://zoom.us) software.
 
-
 ## Theme Of The Open Space
-
-After serving as a useful theme for our [first Virtual Open Space](/events/2020-06-02-virtual-open-space), we decided to again invite you to explore with us ...
 
 **People & their interactions**
 
 Anything about people and how they interact. Ranging from ways to collaborate that foster empathy and insight, strategies for establishing sustainable pace and avoiding burnout, to tips on how to practice closeness when you’re working in a remote team.
 Bring your challenges, your questions, your strategies, failures, successes and stories.
 
+## Agenda
+
+You can view [the preliminary schedule and all sessions that have been proposed so far][event-schedule].
 
 ## What To Expect
 
@@ -35,8 +35,6 @@ An evening of inspiration, exchange and human connection. We want to host a plac
 The event  will be held as a (virtual) Open Space, this means there’s no predefined schedule and thus no speakers. Rather, there’s space and time for all participants to fill with whatever is important and relevant to them.
 
 Registered participants will be able to add sessions to the schedule before the event, and it will be possible to spontaneously propose sessions for the schedule.
-
-You can view [the preliminary schedule and all sessions that have been proposed so far][event-schedule].
 
 ## Register
 
