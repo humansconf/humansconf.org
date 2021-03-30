@@ -8,7 +8,7 @@ title: "#humansconf"
 
 ## Events
 
-Our second Virtual Open Space is [scheduled for July 15th](/events/2020-07-15-virtual-open-space).
+Check out our previous [events](/events/).
 
 
 ## Our Vision
