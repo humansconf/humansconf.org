@@ -11,9 +11,7 @@ excerpt: >-
 permalink: /events/2020-07-15-virtual-open-space
 ---
 
-An event, that will happen fully online.
-
-You can participate from around the world, be it from the coziness of your home or any other place. The only thing you need is a device with an internet connection and the ability to run the [Zoom](https://zoom.us) software.
+People from around the world joined the event, as it was fully held online.
 
 ## Theme Of The Open Space
 
@@ -24,23 +22,15 @@ Bring your challenges, your questions, your strategies, failures, successes and 
 
 ## Agenda
 
-You can view [the preliminary schedule and all sessions that have been proposed so far][event-schedule].
+You can view [the schedule and all sessions that have been held][event-schedule].
 
 ## What To Expect
 
-Check out our [description of our first Virtual Open Space](/events/2020-06-02-virtual-open-space) to get a sense of what to expect.
+Check out our [description of our first Virtual Open Space](/events/2020-06-02-virtual-open-space) to get a sense of what was going on.
 
 An evening of inspiration, exchange and human connection. We want to host a place for people who are interested in an exchange about human-centered organizations, approaches, techniques and more.
 
-The event  will be held as a (virtual) Open Space, this means there’s no predefined schedule and thus no speakers. Rather, there’s space and time for all participants to fill with whatever is important and relevant to them.
-
-Registered participants will be able to add sessions to the schedule before the event, and it will be possible to spontaneously propose sessions for the schedule.
-
-## Register
-
-The event is free of charge, but you need to register in order to participate.
-
-{% include mailerlite-register-form_event20200715.html %}
+The event was held as a (virtual) Open Space, this means there was no predefined schedule and thus no speakers. Rather, there was space and time for all participants to fill with whatever was important and relevant to them.
 
 ## Event Time In Your Timezone
 
