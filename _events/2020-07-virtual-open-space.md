@@ -32,10 +32,5 @@ An evening of inspiration, exchange and human connection. We want to host a plac
 
 The event was held as a (virtual) Open Space, this means there was no predefined schedule and thus no speakers. Rather, there was space and time for all participants to fill with whatever was important and relevant to them.
 
-## Event Time In Your Timezone
-
-You can use [everytimezone][everytimezone] to convert the events' time to your local timezone.
-
 
 [event-schedule]: https://www.notion.so/July-15-2020-Virtual-Open-Space-91f9a2cbbac646768b3a20609f4ec595
-[everytimezone]: https://everytimezone.com/s/0cc136ab
